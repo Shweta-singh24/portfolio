@@ -1,6 +1,6 @@
 import React from 'react';
 
-const skills = ["Java", "Spring Boot", "Node.js", "Express", "MongoDB", "SQL", "REST API", "Git"];
+const skills = ["JavaScript", "", "Node.js", "Express", "MongoDB", "SQL", "REST API", "Git", "Auth"];
 
 const Skills = () => {
   return (
