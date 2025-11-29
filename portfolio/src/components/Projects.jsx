@@ -4,20 +4,20 @@ const projects = [
   {
     title: "Notes App",
     desc: "A secure Notes Management REST API built using Node.js, Express, MongoDB, and JWT authentication Users can sign up, log in, and manage their personal notes (create, read, update, delete, pin, archive, etc).",
-    tech: "Node.JS Express MongoDB",
-    link: "#"
+    tech: "Node.JS Express MongoDB , jwt",
+    link: "https://github.com/Shweta-singh24/Notes"
   },
   {
-    title: "Todo App",
-    desc: "This project is a backend-only Todo application that allows users to create, read, update, and delete todos. It is built using Express.js and MongoDB (Mongoose). The API is tested using Postman and ready to connect with any frontend.",
-    tech: "Node.js, Express, MongoDB",
-    link: "#"
+    title: "Library - Management",
+    desc: "A complete backend for managing a library system built with Node.js, Express, and MongoDB. Supports Admin and Student roles with JWT authentication, role-based access control, and book borrowing management.",
+    tech: "Node.js, Express, MongoDB, Jwt, Rest api",
+    link: "https://github.com/Shweta-singh24/library-mngt"
   },
   {
-    title: "E-commerce Backend",
-    desc: "Order management and payment API",
-    tech: "Spring Boot, MySQL",
-    link: "#"
+    title: "Expense Tracker API",
+    desc: "A RESTful Expense Tracker Backend built with Node.js, Express, MongoDB (Mongoose), and JWT Authentication. It allows users to register, log in, and manage their expenses — including filtering, monthly reports, and category breakdowns.",
+    tech: "Node.js, Express, MongoDB, Jwt, Rest api",
+    link: "https://github.com/Shweta-singh24/Expense-tracker"
   }
 ];
 
