@@ -5,7 +5,7 @@ const projects = [
     title: "Notes App",
     desc: "A secure Notes Management REST API built using Node.js, Express, MongoDB, and JWT authentication Users can sign up, log in, and manage their personal notes (create, read, update, delete, pin, archive, etc).",
     tech: "Node.JS Express MongoDB , jwt",
-    link: "https://github.com/Shweta-singh24/Notes"
+    link: "https://github.com/Shweta-singh24/Notes-App"
   },
   {
     title: "Library - Management",
